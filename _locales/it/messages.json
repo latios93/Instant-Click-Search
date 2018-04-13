@@ -1,0 +1,86 @@
+{
+	"extensionName": {
+		"message": "Click Search",
+		"description": "Name of the extension."
+	},
+
+	"extensionDescription": {
+		"message": "Cerca il testo selezionato su Amazon/Ebay/Zavvi/Altro!",
+		"description": "Description of the extension."
+	},
+
+	"extensionLabelSearch": {
+		"message": "Cerca",
+		"description": "Label Search."
+	},
+
+	"extensionSettingDescription": {
+		"message": "Questo piccolo plugin vi permetterà di cercare sulle seguenti piattaforme qualsiasi testo selezionato:",
+		"description": "Description in settings."
+	},
+
+	"extensionSettingSave": {
+		"message": "Salva impostazioni",
+		"description": "Save in settings."
+	},
+
+	"extensionSettingDescriptionGroupAll": {
+		"message": "Abilita tutte le voci",
+		"description": "Group everything in settings."
+	},
+
+	"extensionSettingDescriptionSaved": {
+		"message": "Impostazioni salvate!",
+		"description": "Save's confirmation in settings."
+	},
+  
+    "extensionSettingAddHostName": {
+		"message": "Nome host:",
+		"description": "Nome host:"
+	},
+	
+	"extensionSettingAddHostMSG_1": {
+		"message": "Voce che comparirà nel context menu.",
+		"description": "Voce che comparirà nel context menu."
+	},
+	
+	"extensionSettingAddHostURL": {
+		"message": "Inserisci URL:",
+		"description": "Inserisci URL:"
+	},
+	
+	"extensionSettingAddHostURLOptional": {
+		"message": "(Opzionale se serve) Inserisci seconda parte della query string:",
+		"description": "(Opzionale se serve) Inserisci seconda parte della query string:"
+	},
+	
+	"extensionSettingAddHostURLFinal": {
+		"message": "URL finale sarà così composto:",
+		"description": "URL finale sarà così composto:"
+	},
+	
+	"extensionSettingAddHostSave": {
+		"message": "Aggiungi",
+		"description": "Aggiungi"
+	},
+	
+	"extensionSettingAddHostDesc": {
+		"message": "dove <strong>SEARCHING_TEXT</strong> rappresenta il testo da cercare.",
+		"description": "dove <strong>SEARCHING_TEXT</strong> rappresenta il testo da cercare."
+	},
+	
+	"extensionSettingAddHostErrorHostName": {
+		"message": "Inserisci un nome per l'host!",
+		"description": "Inserisci un nome per l'host!"
+	},
+	
+	"extensionSettingAddHostErrorURL": {
+		"message": "Manca l'url! Inserisci un url valido!",
+		"description": "Manca l'url! Inserisci un url valido!"
+	},
+	
+	"extensionSettingAddHostErrorNameDuplicated": {
+		"message": "Già è presente un host con questo nome!",
+		"description": "Già è presente un host con questo nome!"
+	}
+}

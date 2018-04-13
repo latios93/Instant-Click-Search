@@ -1,0 +1,69 @@
+body, .noselect {
+			-webkit-touch-callout: none; /* iOS Safari */
+			-webkit-user-select: none; /* Safari */
+			-khtml-user-select: none; /* Konqueror HTML */
+			-moz-user-select: none; /* Firefox */
+			-ms-user-select: none; /* Internet Explorer/Edge */
+			user-select: none; /* Non-prefixed version, currently
+							  supported by Chrome and Opera */
+		} 
+		#listCheckBox {
+			text-align: left;
+			font-size: 160%;
+		}
+		
+		p {
+			font-size: 160%;
+			text-align: center;
+		}
+		
+		input {
+			
+		}
+		
+		table {
+			width: 50%;
+			position: relative;
+			margin: 0px auto auto !important;
+		}
+		
+		.row-button {
+			padding: 20px;
+		}
+		
+		.btn-custom {
+			width: 180px;
+		}
+		
+		.table-custom {
+			width: 100%;
+		}
+		
+		.table-custom > tbody > tr > td:nth-child(2) {
+			width: 50px;
+		}
+		
+		.table-custom, .table-custom > tbody > tr > td > label {
+			cursor: pointer;
+		}
+		
+		.hidden-box {
+			width: 30px;
+			height: 45px;
+			position: absolute;
+		}
+		
+		.td-width-custom60 {
+			width: 60px;
+		}
+		
+		.td-width-custom30 {
+			width: 37px;
+		}
+		
+		.host-name {
+			width: 100px;
+			white-space: nowrap;
+			overflow: hidden;
+			text-overflow: ellipsis;
+		}

@@ -1,0 +1,86 @@
+{
+	"extensionName": {
+		"message": "Click Search",
+		"description": "Name of the extension."
+	},
+
+	"extensionDescription": {
+		"message": "Search selected text in Amazon/Ebay/Zavvi/etc!",
+		"description": "Description of the extension."
+	},
+
+	"extensionLabelSearch": {
+		"message": "Search",
+		"description": "Label Search."
+	},
+
+	"extensionSettingDescription": {
+		"message": "This plugin let you search a selected text in many marketplace or sites:",
+		"description": "Description in settings."
+	},
+
+	"extensionSettingSave": {
+		"message": "Save",
+		"description": "Save in settings."
+	},
+
+	"extensionSettingDescriptionGroupAll": {
+		"message": "Enable each option",
+		"description": "Group everything in settings."
+	},
+
+	"extensionSettingDescriptionSaved": {
+		"message": "Options saved!",
+		"description": "Save's confirmation in settings."
+	},
+  
+    "extensionSettingAddHostName": {
+		"message": "Host's name:",
+		"description": "Host's name"
+	},
+	
+	"extensionSettingAddHostMSG_1": {
+		"message": "This label will be show in the context menu.",
+		"description": "This label will be show in the context menu."
+	},
+	
+	"extensionSettingAddHostURL": {
+		"message": "URL:",
+		"description": "URL:"
+	},
+	
+	"extensionSettingAddHostURLOptional": {
+		"message": "(Optional, if required) Add the query string's second part:",
+		"description": "(Optional, if required) Add the query string's second part:"
+	},
+	
+	"extensionSettingAddHostURLFinal": {
+		"message": "The final URL will be like this:",
+		"description": "The final URL will be like this:"
+	},
+	
+	"extensionSettingAddHostSave": {
+		"message": "Add",
+		"description": "Add"
+	},
+	
+	"extensionSettingAddHostDesc": {
+		"message": "where <strong>SEARCHING_TEXT</strong> is the text that you want to search.",
+		"description": "where <strong>SEARCHING_TEXT</strong> is the text that you want to search."
+	},
+	
+	"extensionSettingAddHostErrorHostName": {
+		"message": "Host's name is required!",
+		"description": "Host's name is required!"
+	},
+	
+	"extensionSettingAddHostErrorURL": {
+		"message": "Url missing! Add a valid URL!",
+		"description": "Url missing! Add a valid URL!"
+	},
+	
+	"extensionSettingAddHostErrorNameDuplicated": {
+		"message": "This host is already present!",
+		"description": "This host is already present!"
+	}
+}
